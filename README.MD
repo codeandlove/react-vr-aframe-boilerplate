@@ -1,0 +1,1 @@
+This is basic boilerplate for Web VR app based on react.js and a-frame.js framework.
